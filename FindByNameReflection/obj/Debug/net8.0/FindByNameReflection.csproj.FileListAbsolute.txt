@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\FindByNameReflection\bin\Debug\net8.0\FindByNameReflection.exe
+C:\Users\48571\source\repos\FindByNameReflection\bin\Debug\net8.0\FindByNameReflection.deps.json
+C:\Users\48571\source\repos\FindByNameReflection\bin\Debug\net8.0\FindByNameReflection.runtimeconfig.json
+C:\Users\48571\source\repos\FindByNameReflection\bin\Debug\net8.0\FindByNameReflection.dll
+C:\Users\48571\source\repos\FindByNameReflection\bin\Debug\net8.0\FindByNameReflection.pdb
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.AssemblyInfo.cs
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.dll
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\refint\FindByNameReflection.dll
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.pdb
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\FindByNameReflection.genruntimeconfig.cache
+C:\Users\48571\source\repos\FindByNameReflection\obj\Debug\net8.0\ref\FindByNameReflection.dll
